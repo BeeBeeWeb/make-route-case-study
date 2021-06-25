@@ -1,0 +1,15 @@
+{
+  "name": "make-route",
+  "version": "1.0.0",
+  "description": "Make route based on tickets",
+  "main": "route.js",
+  "scripts": {
+    "start": "node route.js",
+    "test": "jest"
+  },
+  "author": "Bhushan Babar",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}
