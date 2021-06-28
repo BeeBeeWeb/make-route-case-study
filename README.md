@@ -30,7 +30,7 @@ console.log(result);
 ### Running
 `npm start`
 
-Hosted on JSBin - https://jsbin.com/hesemaj/edit?js,console 
-
 ### Testing
 `npm test`
+
+Hosted on JSBin - https://jsbin.com/hesemaj/edit?js,console 
