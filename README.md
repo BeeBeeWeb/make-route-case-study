@@ -33,4 +33,6 @@ console.log(result);
 ### Testing
 `npm test`
 
+---
+
 Hosted on JSBin - https://jsbin.com/hesemaj/edit?js,console 
